@@ -1,2 +1,3 @@
 *.tfvars filter=git-crypt diff=git-crypt
 *.tfvars-redacted filter=git-crypt diff=git-crypt
+*.os filter=git-crypt diff=git-crypt
